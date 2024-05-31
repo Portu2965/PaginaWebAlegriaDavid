@@ -1,0 +1,10 @@
+# Exported from Nomad Sculpt
+
+newmtl object3_
+ map_Kd Без_названия15_20240506111651.png
+
+newmtl object2_
+ map_Kd gltf_embedded_13.png
+
+newmtl object0_
+ map_Kd toilet_001_baseColor.png
