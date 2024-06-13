@@ -184,11 +184,11 @@ footer{
     .menu {
         flex-direction: column;
     }
-    .submenu-content {
+    .menu-content {
         position: static;
         display: none;
     }
-    .submenu:hover .submenu-content {
+    .menu:hover .menu-content {
         display: block;
     }
     .mapa{
@@ -241,11 +241,11 @@ footer{
     .menu {
         flex-direction: column;
     }
-    .submenu-content {
+    .menu-content {
         position: static;
         display: none;
     }
-    .submenu:hover .submenu-content {
+    .menu:hover .menu-content {
         display: block;
     }
     .mapa2{
